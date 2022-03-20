@@ -1,3 +1,4 @@
+"""views for home page can be found here"""
 from django.shortcuts import render
 
 # Create your views here.
