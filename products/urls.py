@@ -1,4 +1,3 @@
-"""URLs used in products search"""
 from django.urls import path
 from . import views
 
